@@ -6,10 +6,19 @@
 
 ### Sample solutions
 
+<<<<<<< Updated upstream
 getwd()
 hony <- read.csv("humansofnewyork.csv", stringsAsFactors=FALSE) # read in data, character vectors treated as character vectors (not factors)
 str(hony) # examine its structure
 
+=======
+getwd("/Users/wadekoontz/Documents/GitHub/TAD_2021-master/R lessons")
+#setwd("/Users/wadekoontz/Documents/GitHub/TAD_2021-master/R lessons")
+hony <- read.csv("humansofnewyork.csv", stringsAsFactors=FALSE) # read in data, character vectors treated as character vectors (not factors)
+str(hony) # examine its structure
+
+#print(hony)
+>>>>>>> Stashed changes
 
 #1. How many status updates have been posted on this page?
   
@@ -48,12 +57,21 @@ sum(hony$likes_count) - max.likes
 sum(hony$likes_count > 1000000)
 
 #7. What was the total number of shares received by posts published each year?
+<<<<<<< Updated upstream
   
+=======
+  ?substr
+>>>>>>> Stashed changes
 year <- substr(hony$created_time, 1, 4) # extracts year from date created variable
 tapply(hony$shares_count, year, sum) # sum of shares by year
 
 #8. What was the total number of likes received by posts published each month?
   
+<<<<<<< Updated upstream
 
 
+=======
+month <- substr(hony$created_time, 6, 7) # extracts month from date created variable
+tapply(hony$likes_count, month, sum)
+>>>>>>> Stashed changes
 
