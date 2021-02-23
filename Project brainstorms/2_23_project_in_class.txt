@@ -8,13 +8,12 @@ What are two possible answers?
 
 - Trump’s candidacy precipitated an observable shift in issues emphasized and rhetoric used in the context of certain issues (immigrations, foreign intervention, trade, etc.) post-2015
 
-- OR Trump’s candidacy did not bring any major shifts in the rhetoric used in our pre-2015 political discourse. 
+- OR Trump’s candidacy did not bring any major shifts in the rhetoric used compared to pre-2015 political discourse. 
 
 
 What are the documents of text data you will analyze?
 
-- Either GOP debate transcripts or a selection of GOP convention speeches over the span of a few election cycles; ideally as far back as 1976 or 1980.  
-
+- GOP convention speeches; ideally as far back as 1960s are earlier 
 
 Give two examples of documents in the corpus that you expect will be high in similarity to each other? 
 
