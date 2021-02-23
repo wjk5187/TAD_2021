@@ -16,9 +16,11 @@ What are the documents of text data you will analyze?
 - Either GOP debate transcripts or a selection of GOP convention speeches over the span of a few election cycles; ideally as far back as 1976 or 1980.  
 
 
-Give two examples of documents in the corpus that you expect will be high in similarity to each other? Two examples that are *low* in similarity?
+Give two examples of documents in the corpus that you expect will be high in similarity to each other? 
 
 - documents from 2016 and 2020 cycles // documents that are relatively close to 2016 cycle
+
+Two examples that are *low* in similarity?
 
 - documents from recent cycles and those from more distant past (ie 2016 vs 1988)
 
