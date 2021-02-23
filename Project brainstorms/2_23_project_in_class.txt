@@ -14,6 +14,7 @@ What are two possible answers?
 What are the documents of text data you will analyze?
 
 - GOP convention speeches; ideally as far back as 1960s are earlier 
+- RNC platforms 
 
 Give two examples of documents in the corpus that you expect will be high in similarity to each other? 
 
