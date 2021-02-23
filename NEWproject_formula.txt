@@ -1,0 +1,31 @@
+
+Formula for text-as-data research 
+
+
+What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
+
+Did Donald Trump’s candidacy, and eventual presidency, mark a shift in the Overton window?
+
+
+What source of text data will you use?
+
+Either GOP debate transcripts or a selection of GOP convention speeches over the span of a few election cycles; ideally as far back as 1976 or 1980.  
+
+
+What are two possible answers to the question?
+
+
+Trump’s candidacy precipitated an observable shift in issues emphasized and rhetoric used in the context of certain issues (immigrations, foreign intervention, trade, etc.) post-2015
+
+OR
+
+Trump’s candidacy did not bring any major shifts in the rhetoric used in our pre-2015 political discourse. 
+
+
+How will the results of the quantitative text analysis demonstrate which of those answers is correct?
+
+Did rhetoric and discourse around certain issues like immigration, interventionism, protectionism grow in prominence or shift in tone indicating a shift in the Overton window.
+
+- keywords in context analysis component? 
+- Use of certain terms
+
